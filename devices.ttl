@@ -1137,3 +1137,41 @@ _:mvave-smc-pad device:typeB false .
 _:mvave-smc-pad device:notes "16-pad controller" .
 _:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
 _:mvave-smc-pad device:eurorack false .
+
+
+_:the-division-department-01-iv device:make "The Division Department" .
+_:the-division-department-01-iv device:model "01/IV" .
+_:the-division-department-01-iv device:inputs 1 .
+_:the-division-department-01-iv device:outputs 0 .
+_:the-division-department-01-iv device:thrus 1 .
+_:the-division-department-01-iv device:swappable false .
+_:the-division-department-01-iv device:typeA false .
+_:the-division-department-01-iv device:typeB true .
+_:the-division-department-01-iv device:notes "Drum synthesizer" .
+_:the-division-department-01-iv device:details "" .
+_:the-division-department-01-iv device:uri "https://thedivisiondepartment.com" .
+
+_:intuitive-instruments-exquis device:make "Intuitive Instruments" .
+_:intuitive-instruments-exquis device:model "Exquis" .
+_:intuitive-instruments-exquis device:inputs 1 .
+_:intuitive-instruments-exquis device:outputs 1 .
+_:intuitive-instruments-exquis device:thrus 1 .
+_:intuitive-instruments-exquis device:swappable false .
+_:intuitive-instruments-exquis device:typeA true .
+_:intuitive-instruments-exquis device:typeB false .
+_:intuitive-instruments-exquis device:notes "MPE MIDI controller with alternative keyboard layout" .
+_:intuitive-instruments-exquis device:details "Includes CV out for mod, pitch, and gate" .
+_:intuitive-instruments-exquis device:uri "https://dualo.com/en/exquis/" .
+
+_:mortrix-mortrix device:make "Mortrix" .
+_:mortrix-mortrix device:model "Mortrix" .
+_:mortrix-mortrix device:inputs 0 .
+_:mortrix-mortrix device:outputs 2 .
+_:mortrix-mortrix device:thrus 0 .
+_:mortrix-mortrix device:swappable false .
+_:mortrix-mortrix device:typeA true .
+_:mortrix-mortrix device:typeB false .
+_:mortrix-mortrix device:notes "MIDI floor controller with 8 footswitches and touchscreen" .
+_:mortrix-mortrix device:details "Includes DIN-5 MIDI in and out, plus 2 3.5mm TRS type A MIDI outs" .
+_:mortrix-mortrix device:uri "https://mortrix.io" .
+
